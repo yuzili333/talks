@@ -41,3 +41,8 @@ status = 200
 from = "/20260118/scratchjr/*"
 to = "/20260118/scratchjr/index.html"
 status = 200
+
+[[redirects]]
+from = "/20260125/scratchjr/*"
+to = "/20260125/scratchjr/index.html"
+status = 200
