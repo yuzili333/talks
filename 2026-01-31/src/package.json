@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "slidev",
+    "build": "tsx ../../scripts/build.ts /20260131/scratchjr/",
+    "export": "slidev export --per-slide --output ../2026-01-31-scratchjr-en.pdf"
+  }
+}
